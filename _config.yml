@@ -1,0 +1,28 @@
+name: DermotMulhall
+favicon: null
+layout_spectrum: 0.4529565598350018
+typography_spectrum: 0.7774228595662862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.007999110966920853
+  lightness: 0.37465250259265304
+  saturation: 0.9245342656504363
+  rhythmicContrast: 0.379500835435465
+purpose: []
